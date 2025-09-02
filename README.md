@@ -14,8 +14,6 @@ I’m currently seeking **Winter 2026 internships** and would be glad to connect
 
 # Tech Stack  
 
-# Tech Stack  
-
 | 💻 Languages | ⚡ Frameworks & Libraries | 🗄️ Databases & Tools | 🔧 Hardware & Systems | 🌟 Core Skills |
 |--------------|---------------------------|----------------------|-----------------------|----------------|
 | 🐍 Python | ⚛️ React / Next.js | 🐘 PostgreSQL | 🔩 STM32 Microcontrollers | 📈 AI/ML Prototyping & Data Analysis |
