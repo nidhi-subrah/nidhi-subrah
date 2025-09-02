@@ -14,32 +14,12 @@ I’m currently seeking **Winter 2026 internships** and would be glad to connect
 
 # Tech Stack  
 
-### 💻 Languages  
-- 🐍 Python  
-- ⚙️ C / C++  
-- ☕ Java  
-- 🌐 JavaScript / TypeScript  
+# Tech Stack  
 
-### ⚡ Frameworks & Libraries  
-- ⚛️ React / Next.js  
-- 🖼️ Vue.js  
-- 🐍 Flask  
-- 🎨 Tailwind CSS  
-
-### 🗄️ Databases & Tools  
-- 🐘 PostgreSQL  
-- 🔋 Supabase  
-- 🍃 MongoDB  
-- 📊 Power BI  
-- 🤖 Power Automate, Microsoft Fabric, Dataverse  
-
-### 🔧 Hardware & Systems  
-- 🔩 STM32 Microcontrollers  
-- 📐 VHDL  
-- 🔌 Breadboarding  
-
-### 🌟 Core Skills  
-- 📈 AI/ML Prototyping & Data Analysis  
-- 🤝 Leadership & Team Collaboration  
-- 🧩 Problem-Solving  
+| 💻 Languages | ⚡ Frameworks & Libraries | 🗄️ Databases & Tools | 🔧 Hardware & Systems | 🌟 Core Skills |
+|--------------|---------------------------|----------------------|-----------------------|----------------|
+| 🐍 Python | ⚛️ React / Next.js | 🐘 PostgreSQL | 🔩 STM32 Microcontrollers | 📈 AI/ML Prototyping & Data Analysis |
+| ⚙️ C / C++ | 🖼️ Vue.js | 🔋 Supabase | 📐 VHDL | 🤝 Leadership & Team Collaboration |
+| ☕ Java | 🐍 Flask | 🍃 MongoDB | 🔌 Breadboarding | 🧩 Problem-Solving |
+| 🌐 JavaScript / TypeScript | 🎨 Tailwind CSS | 📊 Power BI · 🤖 Power Automate, Microsoft Fabric, Dataverse | ⚙️ 3D-Printing | ⏳ Time Management |
 
