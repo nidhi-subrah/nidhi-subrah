@@ -2,13 +2,13 @@
 
 # About Me  
 
-Hi! I’m Nidhi Subrahmanya, a Computer Engineering student at the University of Waterloo with a passion for building intelligent, data-driven systems.  
+Hi! I’m **Nidhi Subrahmanya**, a Computer Engineering student at the **University of Waterloo** interested in **software development, AI, and data-driven systems!**
 
-I recently worked as an **AI & Data Analyst Intern at Gay Lea**, where I automated workflows with Power Automate, deployed AI agents on enterprise data, and improved supply chain visibility through real-time tracking tools. Previously, as a **Web Developer at Electrium Mobility**, I contributed to frontend development using React/Next.js and optimized backend performance with Supabase and PostgreSQL.  
+I’ve worked as a **Full-Stack Software Developer Intern at Virtek Vision**, building React/TypeScript features, C#/.NET APIs and Playwright automation for laser inspection software. I’ve also worked at **Gay Lea**, using Power Automate, MS Fabric AI agents, Dataverse and SQL to improve workflow automation and supply chain visibility. Part-time, I worked at **Waterloo Reality Labs** on PyTorch-based gesture classification for VR.
 
-Beyond internships, I’ve developed projects like **TheraMind** (an AI-powered mental health companion), **DermaCare** (a personalized skincare scanner), and **Podcastify** (a textbook-to-podcast converter).
+Outside of work, I’ve built projects like **Networkify**, an AI-powered referral path engine, **DermaCare**, a personalized skincare scanner and other tools focused on making data more useful and accessible.
 
-I’m currently seeking **Winter 2026 internships** and would be glad to connect!
+I’m currently seeking **Fall 2026 software engineering internships** and would be happy to connect!
 
 ---
 
