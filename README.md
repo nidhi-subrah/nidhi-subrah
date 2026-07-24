@@ -8,7 +8,7 @@ I’ve worked as a **Full-Stack Software Developer Intern at Virtek Vision**, bu
 
 Outside of work, I’ve built projects like **Networkify**, an AI-powered referral path engine, **DermaCare**, a personalized skincare scanner and other tools focused on making data more useful and accessible.
 
-I’m currently seeking **Fall 2026 software engineering internships** and would be happy to connect!
+I’m currently seeking **Summer 2027 software engineering internships** and would be happy to connect!
 
 ---
 
