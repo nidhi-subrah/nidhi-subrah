@@ -2,13 +2,15 @@
 
 # About Me  
 
-Hi! I’m **Nidhi Subrahmanya**, a Computer Engineering student at the **University of Waterloo** interested in **software development, AI, and data-driven systems!**
+Hi! I’m **Nidhi Subrahmanya**, a Computer Engineering student at the **University of Waterloo** interested in **software engineering, AI, and building impactful technology!**
 
-I’ve worked as a **Full-Stack Software Developer Intern at Virtek Vision**, building React/TypeScript features, C#/.NET APIs and Playwright automation for laser inspection software. I’ve also worked at **Gay Lea**, using Power Automate, MS Fabric AI agents, Dataverse and SQL to improve workflow automation and supply chain visibility. Part-time, I worked at **Waterloo Reality Labs** on PyTorch-based gesture classification for VR.
+I'm currently a **Software Engineering Associate Intern at CVRD Health**, developing full-stack features, deploying production hotfixes, and improving enrollment workflows using PHP/Laravel, Go, and AWS. I'm also a **Software Engineer at WAT.ai**, building RESTful APIs and AWS infrastructure for an English–Rohingya translation platform supporting newcomers.
 
-Outside of work, I’ve built projects like **Networkify**, an AI-powered referral path engine, **DermaCare**, a personalized skincare scanner and other tools focused on making data more useful and accessible.
+Previously, I worked at **Virtek Vision** on React/TypeScript features, backend APIs, and automated testing for laser inspection systems, and at **Gay Lea** on AI-powered automation and data analytics. I've also explored **AI/ML at Waterloo Reality Labs**, developing gesture recognition models for VR applications.
 
-I’m currently seeking **Summer 2027 software engineering internships** and would be happy to connect!
+Outside of work, I've built projects like **Networkify**, an AI-powered referral path engine, and **DermaCare**, a personalized skincare scanner, combining my interests in backend engineering, AI, and solving real-world problems.
+
+I'm currently seeking **Summer 2027 software engineering internships** and would love to connect!
 
 ---
 
